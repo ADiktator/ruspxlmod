@@ -5,6 +5,12 @@
       "image": "http://i.imgur.com/9KW10l9.png",
       "x": 305,
       "y": 0
+    },
+	{
+      "title": "Алиса",
+      "image": "http://i.imgur.com/MK8MtN1.png",
+      "x": 700,
+      "y": 0
     }
   ]
 }
