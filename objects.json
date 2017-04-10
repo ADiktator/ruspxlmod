@@ -1,19 +1,19 @@
 ﻿{
   "objects": [
     {
-      "title": "Флаг",
+      "title": "Flag",
       "image": "http://i.imgur.com/ChiqMbq.png",
       "x": 305,
       "y": 0
     },
 	{
-      "title": "Алиса",
+      "title": "Alice",
       "image": "http://i.imgur.com/MK8MtN1.png",
       "x": 700,
       "y": 0
     },
 	{
-      "title": "Котик",
+      "title": "Cat",
       "image": "http://i.imgur.com/MNszWZ6.png",
       "x": 500,
       "y": 478
