@@ -18,5 +18,11 @@
       "x": 884,
       "y": 0
     }
+	 {
+      "title": "Капча",
+      "image": "http://i.imgur.com/w6ONMmE.png",
+      "x": 0,
+      "y": 465
+    }
   ]
 }
