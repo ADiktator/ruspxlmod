@@ -1,22 +1,22 @@
 ﻿{
   "objects": [
     {
-      "title": "Флагёптаг",
-      "image": "http://i.imgur.com/ChiqMbq.png",
+      "title": "Флаг",
+      "image": "http://i.imgur.com/sdeC9TP.png",
       "x": 305,
       "y": 0
     },
 	{
-      "title": "Алиса",
-      "image": "http://i.imgur.com/MK8MtN1.png",
-      "x": 700,
+      "title": "Ульяна",
+      "image": "http://i.imgur.com/tygvXLw.png",
+      "x": 0,
       "y": 0
     },
 	{
-      "title": "Котик",
-      "image": "http://i.imgur.com/MNszWZ6.png",
-      "x": 500,
-      "y": 478
+      "title": "Луна",
+      "image": "http://i.imgur.com/tygvXLw.png",
+      "x": 884,
+      "y": 0
     }
   ]
 }
